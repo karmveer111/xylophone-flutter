@@ -1,7 +1,5 @@
-![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
-
-
 # Xylophone 🎹
+>Fork of https://github.com/londonappbrewery/xylophone-flutter with updated Flutter Code
 
 ## Our Goal
 
